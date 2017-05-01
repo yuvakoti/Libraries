@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Libraries</string>
+    <string name="google_maps_key">AIzaSyAfbDC_J6d0deXX92AV3jz8O1D814aCrI0</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
